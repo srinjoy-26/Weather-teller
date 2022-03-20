@@ -1,7 +1,9 @@
 # Weather-teller
-Project description - This project , Asks the user the name of a city as input and provides the weather and temperature(in celsius) as output.
+Introduction  
+This project , Asks the user the name of a city as input and provides the weather and temperature(in celsius) as output.
 
-Tech stack - The project is made using python and weather API.
+Tech stack used
+The project is made using python and weather API.
 The weather API , I hv used in this project is from - https://openweathermap.org/api
 
 Demonstration video - here is a view of the project :
@@ -9,9 +11,18 @@ Demonstration video - here is a view of the project :
 https://user-images.githubusercontent.com/91176055/159108679-8124cd46-7467-465a-9674-c32e42361ed7.mp4
 
 
-Basic component of my project is python. 
+How to Run locally
+Latest version of python must be installed on your local machine.
+'requests' package should also be installed.
+Pycharm IDE is required.
+Clone this repository:
+git clone https://github.com/abhijeet007rocks8/Dev-Scripts.git
+Change directory:
+cd Python
+cd Weather-teller
+Find main.py and run it.
 
-Steps to run the project in local are shown in the video.
+
 
 If any further information contributors want to include, you are most welcome do.
 
